@@ -1,7 +1,8 @@
 [
     {
         "package": "requal",
-        "url": "https://github.com/RE-QDA/requal"
+        "url": "https://github.com/RE-QDA/requal",
+        "branch": "*release"
     }
 ]
 
